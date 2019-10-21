@@ -1,6 +1,6 @@
 <?php echo $header; ?><?php echo $column_left; ?>
 <div id="content">
-<div class="hashir-changing"></div>
+<div class="hashir-changing">some data here</div>
   <div class="page-header">
     <div class="container-fluid">
       <div class="pull-right">
